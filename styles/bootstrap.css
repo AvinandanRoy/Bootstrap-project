@@ -3081,10 +3081,10 @@ textarea.form-control-lg {
 
 .btn-success {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #198754;
-  --bs-btn-border-color: #198754;
-  --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #157347;
+  --bs-btn-bg: #f00606fe;
+  --bs-btn-border-color: #f00606fe;
+  --bs-btn-hover-color: #000000;
+  --bs-btn-hover-bg: #faf208;
   --bs-btn-hover-border-color: #146c43;
   --bs-btn-focus-shadow-rgb: 60, 153, 110;
   --bs-btn-active-color: #fff;

@@ -12,3 +12,11 @@
     background-image: url("../Images/carousel/4.jpg");
     height: 90vh;
 }
+
+.client-image{
+    width: 160px;
+}
+
+.report-background{
+    background-color: #0c2e8a;
+}
